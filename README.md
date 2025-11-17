@@ -7,7 +7,7 @@
 Driven by curiosity and a love for data, I explore the intersection of **data research, machine learning, and software development**.  
 I enjoy building models, uncovering patterns, and turning numbers into meaningful insights that support real decisions.
 
-Experienced with **Python, C++, and Golang**, I love learning fast, experimenting with new ideas, and collaborating to build impactful solutions — whether in analytics, AI projects, or general software development.
+Experienced with **Python, C++, and Golang**, I love learning fast, experimenting with new ideas, and collaborating to build impactful solutions, whether in analytics, AI projects, or general software development.
 
 ---
 
