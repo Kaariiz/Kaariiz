@@ -56,7 +56,7 @@ Covers EDA, preprocessing, and comparison of multiple algorithms (SVM, Random Fo
 
 
 ### 🌐 Connect with Me  
-- LinkedIn: *https://surl.li/bweqyl*  
+- LinkedIn: *www.linkedin.com/in/rizka-ananda-pratama*  
 - Email: *rizkaanandapratama@student.telkomuniversity.ac.id*  
 
 ---
