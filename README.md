@@ -1,18 +1,13 @@
-# 👋 Hello!
+# Hi there!
 
-Interested in building useful things with data, machine learning, and software.
+Building things with data and code.
 
-### Interests
+I'm interested in machine learning, natural language processing, data analytics, and software development. Always learning, always experimenting.
 
-- Machine Learning
-- Natural Language Processing
-- Data Analytics
-- Backend Development
+## Tech
 
-### Tech
+`Python` `Go` `Java` `C++` `SQL`
 
-`Python` `Go` `Java` `SQL`
-
-`Scikit-Learn` `TensorFlow` `Pandas`
+`Scikit-Learn` `TensorFlow` `Pandas` `NumPy`
 
 `Git` `GitHub` `VS Code`
