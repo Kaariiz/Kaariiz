@@ -2,7 +2,7 @@
 
 Building things with data and code.
 
-I'm interested in machine learning, natural language processing, data analytics, and software development. Always learning, always experimenting.
+I'm interested in machine learning, natural language processing, data analytics, and software development. Passionate about solving problems through technology.
 
 ## Tech
 
